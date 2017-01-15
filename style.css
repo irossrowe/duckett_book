@@ -1,0 +1,66 @@
+/**********************************************
+	PAGE
+***********************************************/
+
+
+#page {
+	padding: 10px;
+}
+
+.code-color {
+	color: cornflowerblue;
+}
+
+fieldset {
+	width: 90%;
+}
+
+fieldset.html-legend {
+	height: 30%;
+}
+
+fieldset.body-legend {
+	height: 25%;
+}
+
+fieldset p {
+	color: #888;
+	border: 1px solid #ccc;
+	padding: 2px;
+}
+
+
+
+/**********************************************
+	HEADINGS
+***********************************************/
+.headings-color {
+	color: cornflowerblue;
+}
+
+em, cite, dfn {
+	color: red;
+}
+
+
+
+/**********************************************
+	LISTS
+***********************************************/
+
+q {
+	color: #000;
+}
+
+li, dd {
+	color: #666;
+}
+
+
+
+
+
+
+.define {
+	
+}
